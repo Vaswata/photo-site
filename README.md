@@ -1,4 +1,4 @@
-# Todo app
+# Photo Site
 
 ## [View](https://vaswata-2-todo-list-6463c2.netlify.app/) this site.
 
