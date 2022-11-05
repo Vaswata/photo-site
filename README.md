@@ -1,6 +1,6 @@
 # Photo Site
 
-## [View](https://vaswata-2-todo-list-6463c2.netlify.app/) this site.
+## [View](https://photo-site-b13ad3.netlify.app) this site.
 
 ![Design preview for the Photo Site](./images/live-screenshot.png)
 
